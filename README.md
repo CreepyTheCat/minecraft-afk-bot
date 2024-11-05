@@ -4,7 +4,7 @@ This Python script connects to a Minecraft server and performs simple AFK (Away 
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `pycraft` library
 
 You can install the `pycraft` library using pip:
